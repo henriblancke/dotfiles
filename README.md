@@ -17,7 +17,7 @@ Synopsis
 
 These are the quick start instructions to get up and running:
 
-    git clone git@github.com:mavam/dotfiles.git ~/.dotfiles
+    git clone git@github.com:henriblancke/dotfiles.git ~/.dotfiles
     cd .dotfiles
     ./bootstrap dotfiles
 
@@ -46,7 +46,7 @@ Local Setup
 
 Begin with cloning this repository somewhere:
 
-    git clone git@github.com:mavam/dotfiles.git ~/.dotfiles
+    git clone git@github.com:henriblancke/dotfiles.git ~/.dotfiles
     cd .dotfiles
 
 Dotfile Management
@@ -105,22 +105,9 @@ includes:
 Extras
 ======
 
-Browser
--------
-
-My browser is Safari, which I beef up with the following enhancements:
-
-- [sVim](https://github.com/flipxfx/sVim) ([example config][svim-config])
-- [Adguard](https://adguard.com/en/article/adblock-adguard-safari.html)
-- [Disconnect](https://disconnect.me)
-
-Browse through this [curated list of extensions][safari-extensions] for further
-inspiration.
-
 [homebrew]: https://brew.sh
 [postfix]: http://www.postfix.org
 [tmux]: https://github.com/tmux/tmux
 [vim]: http://www.vim.org
 [zsh]: http://www.zsh.org
 [svim-config]: https://gist.github.com/nikitavoloboev/c26e6a05e4e426e0542e55b7513b581c
-[safari-extensions]: https://github.com/learn-anything/safari-extensions
